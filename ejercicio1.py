@@ -1,3 +1,5 @@
+#-*- coding:utf-8 -*-
+
 import json
 from pprint import pprint
 with open('playastenerife.json') as datos:
